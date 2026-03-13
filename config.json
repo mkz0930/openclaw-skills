@@ -1,5 +1,0 @@
-{
-    "ws_url": "ws://172.25.0.1:19000",
-    "chrome_extension_path": "E:\\openclaw\\extensions\\openclaw-browser-relay\\extension",
-    "server_log": "/tmp/openclaw-relay-server.log"
-}
