@@ -1,6 +1,6 @@
-# OpenClaw Skills
+# OpenClaw Skills Hub
 
-Official OpenClaw Skills Repository - Chrome Relay, Amazon Automation, Feishu Integration
+This is the official repository for OpenClaw skills.
 
 ---
 
